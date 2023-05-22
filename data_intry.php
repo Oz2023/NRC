@@ -65,6 +65,7 @@ public function add($name,$price){
   <p>Name: <input type="text" name="bname"</p>
   <p>Price: <input type="text" name="bprice"</p>
   <p>input <input type="submit" name="sub"</p>
+  <p>Download <input type="submit" name="download"</p>
   
 </from>
 <?php

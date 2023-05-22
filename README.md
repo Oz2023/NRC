@@ -1,6 +1,6 @@
 # Login form & Sign Up form full Code
 
-[This](https://github.com/Oz2023/NRC/blob/main/login.html) is a [Login](https://github.com/Oz2023/NRC/blob/main/login.html) form and a [Sign up](https://github.com/Oz2023/NRC/blob/main/login.signup.html) form.  
+[This]https://github.com/Oz2023/NRC/blob/main/login.html) is a [Login](https://github.com/Oz2023/NRC/blob/main/data_intry) form and a [Sign up](https://github.com/Oz2023/NRC/blob/main/signup.html) form.  
 Built with **HTML5** and **CSS3**. 
 
 ### Tasks
